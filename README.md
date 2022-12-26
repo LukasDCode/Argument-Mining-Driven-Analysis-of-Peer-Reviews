@@ -3,6 +3,8 @@ Accompanying repository of our [AAAI2021](https://ojs.aaai.org/index.php/AAAI/ar
 
 We release a new dataset of peer-reviews from different computer science conferences with annotated arguments, called AMSR (**A**rgument **M**ining in **S**cientific **R**eviews).
 
+[Paper submission](https://arxiv.org/abs/2012.07743)
+
 ## Dataset
 The dataset is available [here](https://zenodo.org/record/4314390).
 It contains:
